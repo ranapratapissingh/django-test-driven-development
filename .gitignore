@@ -3,7 +3,7 @@ tdd_django/__pycache__/
 blog/__pycache__/
 logs/
 .idea/
-*.png
+# *.png
 *.xlsx
 db.sqlite3
 # Byte-compiled / optimized / DLL files

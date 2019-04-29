@@ -36,7 +36,7 @@ Following steps define how to perform TDD test:
 	* TDD does not mean "write some of the tests, then build a system that passes the tests.
 	* TDD does not mean "do lots of Testing."
 
-![TDD cycle window](https://github.com/vickymax/django-celery/blob/master/TestDrivenDevelopment.png)
+![TDD cycle window](https://github.com/vickymax/django-test-driven-development/blob/master/TestDrivenDevelopment.png)
 
 
 ### Let’s first create a test demonstrating the behavior we’d like to see.
