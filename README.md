@@ -1,4 +1,3 @@
-
 # Django Test-Driven Development (TDD)
 
 ## Why test-driven development?
