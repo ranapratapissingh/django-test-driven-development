@@ -45,7 +45,7 @@ Following steps define how to perform TDD test:
 
 ### Now run the tests using:
 
-		$ python manage.py test blog
+	$ python manage.py test blog
 
 #### sample of failed & passed test :
 
