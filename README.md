@@ -137,10 +137,10 @@ blog/tests                                  101      0   100%
 blog/urls                                     3      0   100%
 blog/views                                   18      0   100%
 manage                                        6      0   100%
-tdd_django/__init__                               0      0   100%
-tdd_django/settings                              19      0   100%
-tdd_django/urls                                   5      0   100%
-tdd_django/views                                  5      0   100%
+tdd_django/__init__                           0      0   100%
+tdd_django/settings                           19     0   100%
+tdd_django/urls                                5     0   100%
+tdd_django/views                               5     0   100%
 -------------------------------------------------------------
 TOTAL                                       209      0   100%
 ~~~
