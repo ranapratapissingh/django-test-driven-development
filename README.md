@@ -41,7 +41,7 @@ Following steps define how to perform TDD test:
 
 ### Let’s first create a test demonstrating the behavior we’d like to see.
 
-**_All the tests for app is written in the `blog/tests.py`._**
+**_All the tests for app is written in the_** `blog/tests.py`.
 
 ### Now run the tests using:
 
